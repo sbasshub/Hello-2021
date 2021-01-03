@@ -1,0 +1,8 @@
+.bg {
+    height: 100%;
+    width: 100%;
+    background-color: aquamarine;
+    clip-path: polygon(70% 0, 100% 48%, 70% 100%, 0% 100%, 0 50%, 0% 0%);
+    position: absolute;
+    z-index: -1;
+}
